@@ -1,13 +1,26 @@
  This user manual includes information on usage, cleaning and maintenance to help you keep the kettle in good condition and prevent accidents. To use the electric kettle safely and efficiently, follow these instructions.
 
-### General Instructions for Using the Kettle
+### Before First Use
 
-Before using the electric kettle for the first time, clean the interior with warm water and a mild detergent. This step helps to remove any residues or particles from the manufacturing process. Once cleaned, rinse the kettle thoroughly to ensure no soap remains. After cleaning, dry the kettle completely before plugging it into a power outlet.
+>This step helps to remove any residues or particles from the manufacturing process. 
 
-To fill the kettle, open the lid and pour in clean water. Ensure that the water level remains between the "MIN" and "MAX" markings on the inside or outside of the kettle. Overfilling the kettle can result in boiling water spilling out during operation, which might cause burns or electrical damage. Conversely, underfilling the kettle may cause the heating element to overheat.
+Before you use the electric kettle for the first time, clean the inside of the kettle with warm water and mild detergent. Rinse the kettle until no soap remains. Dry the kettle completely. 
 
-After filling the kettle, close the lid securely. Place the kettle on its base and ensure that it is seated properly. Plug the base into a power outlet and switch the kettle on using the power switch, usually located near the handle. An indicator light will typically illuminate to show that the kettle is operating.
-When the water reaches boiling temperature, most kettles will automatically turn off. Wait a few seconds before lifting the kettle off the base to allow any remaining steam to settle. Hold the kettle by its handle and pour the water slowly to avoid splashing.
+Make sure the kettle is dry before plugging it to a power outlet.
+
+### Boiling Water
+1. Open the lid.
+2. Pour clean water into the kettle.
+   -    Water level should remain between the "MIN" and "MAX" markings on the inside or outside of the kettle.
+   -    Overfilling may cause hot water to spill out and cause burns or electrical damage.
+   -    Underfilling may cause the heating element to overheat.
+3. Close the lid.
+4. Put the kettle on its base. Make sure it is seated properly.
+5. Plug the base into a power outlet
+6. Switch the kettle on using the power switch. An indicator light will illuminate to show that the kettle is working.
+7. Wait for the water to boil. The kettle will turn off automatically.
+8. Wait a few seconds before lifting the kettle off the base for the steam to settle.
+9. Lift the kettle by the handle. Pour the water slowly to avoid splashing.
 
 ### Regular Maintenance
 
