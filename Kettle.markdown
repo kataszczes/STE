@@ -1,4 +1,4 @@
-To use the electric kettle safely and efficiently, it is very important to follow the guidelines provided. The user manual includes information on usage, cleaning, and maintenance, which must be adhered to in order to keep the device functioning properly and to avoid potential safety hazards.
+ This user manual includes information on usage, cleaning and maintenance to help you keep the kettle in good condition and prevent accidents. To use the electric kettle safely and efficiently, follow these instructions.
 
 ### General Instructions for Using the Kettle
 
