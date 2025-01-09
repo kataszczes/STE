@@ -35,4 +35,4 @@ To remove limescanle:
 
 ### Storage
 
-When storing the kettle, ensure that it is completely dry. Wind the power cord neatly around the base, if the design permits. Store the kettle in a cool, dry place, away from direct sunlight and moisture.
+Make sure the kettle is completely dry before storing it. If the design permits it, wind the power cord around the base. Store the kettle in a cool, dry place Keep it away from direct sunlight and moisture.
