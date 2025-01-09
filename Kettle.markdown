@@ -24,11 +24,15 @@ Make sure the kettle is dry before plugging it to a power outlet.
 
 ### Regular Maintenance
 
-Regular cleaning is essential to maintain the kettle's performance. Descale the kettle every two to four weeks, depending on the hardness of the water in your area. Use a descaling solution approved for electric kettles, and follow the manufacturer's instructions. Avoid using abrasive cleaners or tools that can damage the interior.
+Clean the kettle regularly to keep it in good condition. Remove limescale every two to four weeks. The frequency may depend on the hardness of water in your area. Use a descaling solution approved for electric kettles and follow the manufacturer's instructions. Avoid using abrasive cleaners or tools that can damage the interior.
 
-To descale the kettle fill the kettle with water up to the “MAX” line, then add the recommended amount of descaling solution. Boil the mixture and let it sit for the time indicated by the descaling product. Empty the kettle and rinse it thoroughly with clean water multiple times to remove any remaining solution.
-Do not immerse the kettle or its base in water at any time. Use a damp cloth to wipe the exterior.
+To remove limescanle:
+1. fill the kettle with water to the “MAX” line
+2. Add the recommended amount of descaling solution.
+3. Boil the mixture and let it sit for the time indicated on the label of the descaling product.
+4. Empty the kettle and rinse it with clean water. Repeat multiple times to remove any remaining solution.
+>Do not immerse the kettle or its base in water. Use a damp cloth to wipe the exterior.
 
-### Storage Instructions
+### Storage
 
 When storing the kettle, ensure that it is completely dry. Wind the power cord neatly around the base, if the design permits. Store the kettle in a cool, dry place, away from direct sunlight and moisture.
