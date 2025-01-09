@@ -1,21 +1,38 @@
-To use the electric kettle safely and efficiently, it is very important to follow the guidelines provided. The user manual includes information on usage, cleaning, and maintenance, which must be adhered to in order to keep the device functioning properly and to avoid potential safety hazards.
+ This user manual includes information on usage, cleaning and maintenance to help you keep the kettle in good condition and prevent accidents. To use the electric kettle safely and efficiently, follow these instructions.
 
-General Instructions for Using the Kettle
+### Before First Use
 
-Before using the electric kettle for the first time, clean the interior with warm water and a mild detergent. This step helps to remove any residues or particles from the manufacturing process. Once cleaned, rinse the kettle thoroughly to ensure no soap remains. After cleaning, dry the kettle completely before plugging it into a power outlet.
+>This step helps to remove any residues or particles from the manufacturing process. 
 
-To fill the kettle, open the lid and pour in clean water. Ensure that the water level remains between the "MIN" and "MAX" markings on the inside or outside of the kettle. Overfilling the kettle can result in boiling water spilling out during operation, which might cause burns or electrical damage. Conversely, underfilling the kettle may cause the heating element to overheat.
+Before you use the electric kettle for the first time, clean the inside of the kettle with warm water and mild detergent. Rinse the kettle until no soap remains. Dry the kettle completely. 
 
-After filling the kettle, close the lid securely. Place the kettle on its base and ensure that it is seated properly. Plug the base into a power outlet and switch the kettle on using the power switch, usually located near the handle. An indicator light will typically illuminate to show that the kettle is operating.
-When the water reaches boiling temperature, most kettles will automatically turn off. Wait a few seconds before lifting the kettle off the base to allow any remaining steam to settle. Hold the kettle by its handle and pour the water slowly to avoid splashing.
+Make sure the kettle is dry before plugging it to a power outlet.
 
-Regular Maintenance
+### Boiling Water
+1. Open the lid.
+2. Pour clean water into the kettle.
+   -    Water level should remain between the "MIN" and "MAX" markings on the inside or outside of the kettle.
+   -    Overfilling may cause hot water to spill out and cause burns or electrical damage.
+   -    Underfilling may cause the heating element to overheat.
+3. Close the lid.
+4. Put the kettle on its base. Make sure it is seated properly.
+5. Plug the base into a power outlet
+6. Switch the kettle on using the power switch. An indicator light will illuminate to show that the kettle is working.
+7. Wait for the water to boil. The kettle will turn off automatically.
+8. Wait a few seconds before lifting the kettle off the base for the steam to settle.
+9. Lift the kettle by the handle. Pour the water slowly to avoid splashing.
 
-Regular cleaning is essential to maintain the kettle's performance. Descale the kettle every two to four weeks, depending on the hardness of the water in your area. Use a descaling solution approved for electric kettles, and follow the manufacturer's instructions. Avoid using abrasive cleaners or tools that can damage the interior.
+### Regular Maintenance
 
-To descale the kettle fill the kettle with water up to the “MAX” line, then add the recommended amount of descaling solution. Boil the mixture and let it sit for the time indicated by the descaling product. Empty the kettle and rinse it thoroughly with clean water multiple times to remove any remaining solution.
-Do not immerse the kettle or its base in water at any time. Use a damp cloth to wipe the exterior.
+Clean the kettle regularly to keep it in good condition. Remove limescale every two to four weeks. The frequency may depend on the hardness of water in your area. Use a descaling solution approved for electric kettles and follow the manufacturer's instructions. Avoid using abrasive cleaners or tools that can damage the interior.
 
-Storage Instructions
+To remove limescanle:
+1. fill the kettle with water to the “MAX” line
+2. Add the recommended amount of descaling solution.
+3. Boil the mixture and let it sit for the time indicated on the label of the descaling product.
+4. Empty the kettle and rinse it with clean water. Repeat multiple times to remove any remaining solution.
+>Do not immerse the kettle or its base in water. Use a damp cloth to wipe the exterior.
 
-When storing the kettle, ensure that it is completely dry. Wind the power cord neatly around the base, if the design permits. Store the kettle in a cool, dry place, away from direct sunlight and moisture.
+### Storage
+
+Make sure the kettle is completely dry before storing it. If the design permits it, wind the power cord around the base. Store the kettle in a cool, dry place Keep it away from direct sunlight and moisture.
